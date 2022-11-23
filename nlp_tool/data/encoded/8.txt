@@ -1,0 +1,103 @@
+>>Connected to the server!
+>>Kasik joined the chat!
+>>Ewelina joined the chat!
+Tomek: Cześć!
+Kasik:  hej
+Ewelina:  Heloł:)
+>>Ewelina left the chat.
+>>Ewelina joined the chat!
+>>EXPERIMENT STARTED.
+Ewelina:  Co znajduje się w centralnej części zdjęcia?
+Kasik:  w centralnej części znajduje sie pomnik
+Ewelina:  Kogo on przedstawia?
+Kasik:  jana pawła II
+Ewelina:  Jak wygląda przednia krawędź ławki?
+Kasik:  stoją na niej znicze i kwiaty
+Ewelina:  Czy kwiaty znajdują się z przodu (jak się patrzy na zdjęcie)?
+Kasik:  po lewej stronie mały bukiet po prawej stronie znicz
+Ewelina:  Co znajduje się po lewej stronie od pomnika, obok różowych kwiatów?
+Kasik:  chodnik, krzewy i wyżej korony drzew
+Ewelina:  Co znajduje się przed dwoma zniczami po prawej stronie?
+Kasik:  część podwyższenia na którym jest umiejscowiony pomnik zrobiony z kostki brukowej
+Ewelina:  A co znajduje się przed tymi dwoma zniczami?
+Kasik:  nic więcej tam nie ma
+Ewelina:  Co znajduje się na podwyższeniu, na samej górze?
+Kasik:  na samej górze podwyższenia stoi pomnik
+Ewelina:  Co znajduje się na samej górze podwyższenia o kolorze czerwonym?
+Kasik:  fragment flagi polski
+Ewelina:  Jaki kolor jest widoczny?
+Kasik:  oba i biały i czerwony, ale flaga jest zawinięta od wiatru, obok jest druga flaga w kolorze białym i żółtym
+Ewelina:  Czyli znajdują się tam dwie małe flagi obok siebie?
+Kasik:  tak
+Ewelina:  Co znajduje się po prawej stronie od czerwonego podwyższenia?
+Kasik:  krzewy
+Ewelina:  Jak są ułożone flagi (po której stronie która)?
+Kasik:  biało czerwona bliżej pomnika, bliżej prawej krawędzi obrazka biało żółta
+Ewelina:  Czy stoją blisko siebie, czy jest pomiędzy nimi przerwa?
+Kasik:  są wsadzone prawdopodobnie w donicę, obok siebie, rozchylają się ku górze
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Ewelina:  Jakiego koloru jest drugi budynek od lewej strony (po różowym)?
+Kasik:  żółty
+Ewelina:  Jakiego koloru są jego okna?
+Kasik:  białe ramy
+Ewelina:  Co znajduje się w lewym dolnym rogu brązowego budynku (4 z kolei od lewej)?
+Kasik:  kawałek fontanny, nie widzę której, a wokół rozkopany stary rynek
+Ewelina:  Co znajduje się w lewej części na pierwszym pięktrze i na parterze w tymże budynku?
+Kasik:  na parterze widać flagę Ukrainy, na pietrze szyby okien
+Ewelina:  Co znajduje się na najwyższym piętrze piątego budynku od lewej?
+Kasik:  okna, nad nimi zdobiony gzyms i dachówki dachu
+Ewelina:  ile jest tam okiej, jakiego koloru?
+Kasik:  4 okna, białe ramy, jak we wszystkich budynkach i wokół beżowe zdobienia
+Ewelina:  Co znajduje się w wąskim pasku na samym dole zdjęcia (od drugiego budynku do końca)?
+Kasik:  ustawione zapory i płoty, które uniemożliwiają wejście na teren rozkopów
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Ewelina:  Co znajduje się w wąskim prostokącie między oknami na budynku po lewej stronie?
+Kasik:  pomnik Maryi na wysokiej kolumnie
+Ewelina:  Co znajduje się w wąskim prostokącie między oknami w budynku po lewej stronie (zaraz obok lewej krawędzi zdjęcia)?
+Kasik:  drzewo
+Ewelina:  Co znajduje się przed pomnikiem
+Kasik:  plac miedzy budynkami rosna tam kwiaty i jest kilka schodkoch
+Ewelina:  Jak wygląda budynek po prawej stronie?
+Kasik:  ceglany, wysokie, strzeliste okna, czerwony dach
+Ewelina:  Ile łącznie jest okien?
+Kasik:  2
+Ewelina:  Co znajduje się po lewej stronie na dole tego budynku?
+Kasik:  drzwi
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Ewelina:  Co znajduje się w wąskim prostokącie po lewej stronie od wózka?
+Kasik:  kawałek wieżowca, latarnia, albo jakiś inny słup, kawałek remontowanej drogi i inni przechodnie
+Ewelina:  co jest między dzieckiem a słupem?
+Kasik:  jego mama
+Ewelina:  Jak wygląda górna kondygnacja budynku z oknami (mniejszego)?
+Kasik:  ładnie zdobiona, strzelisty gzyms małe okienka na szczycie
+Ewelina:  ile jest okien?
+Kasik:  9
+Ewelina:  jak wygląda wieżyczka na lewo od pomnika?
+Kasik:  okrągła, ze środka wychodzi słup z flagą
+Ewelina:  jaka to flaga?
+Kasik:  nie widać, za mała
+Ewelina:  jakiego koloru
+Kasik:  nie widać, za mała
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Ewelina:  Co znajduje się na lewo od zegara (część wieżyczki i kawałek nieba)?
+Kasik:  no właśnie część wieżyczki i kawałek nieba, a także malunki na fasadzie przedstawiajace jakieś postaci w czerwonych płaszczach
+Ewelina:  Co znajduje się nad obrazem po prawej stronie na pierwszym pietrze?
+Kasik:  kolejny obraz
+Ewelina:  Co znajduje się pod tym obrazem?
+Kasik:  rowniez obraz
+Ewelina:  Czy jest coś między tymi dwoma obrazami?
+Kasik:  część fasady budynku
+Ewelina:  jak wygląda drugi obraz po prawej stronie na samej górze?
+Kasik:  facet w zbroi i koronie
+Ewelina:  a co znajduje się na samym parterze pośrodku?
+Kasik:  drzwi do ratusza
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Ewelina:  Co znajduje się za świerkami w tle pośrodku?
+Kasik:  wieża zamku Przemysła
+Ewelina:  Co znajduje się po lewej stronie (za tabliczką)?
+Kasik:  mur zamku, czerwony z cegły, nad nim korony drzew, nad nimi niebo
+Ewelina:  Czy oprócz zamku jest tam coś jescze bliżej prawej krawędzi zdjęcia?
+Kasik:  reszta zamku, kawałęk innego budynku, latarnia i drzewo
+>>EXPERIMENT FINISHED.
+>>Ewelina left the chat.
+>>Kasik left the chat.

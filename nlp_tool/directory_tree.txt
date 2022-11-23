@@ -1,0 +1,37 @@
+data
+├───corrected_manually
+│   ├───encoded
+│   │       session_1.txt
+│   │       session_2.txt
+│   │       session_3.txt
+│   │
+│   ├───processed
+│   │       answers.txt
+│   │       full_dialogue.txt
+│   │       questions.txt
+│   │
+│   └───raw
+│           session_1.txt
+│           session_2.txt
+│           session_3.txt
+│
+├───encoded
+│       session_1.txt
+│       session_2.txt
+│       session_3.txt
+│
+├───processed
+│       answers.txt
+│       corrected_answers.txt
+│       corrected_full_dialogue.txt
+│       corrected_questions.txt
+│       full_dialogue.txt
+│       questions.txt
+│       replacements_answers.txt
+│       replacements_full_dialogue.txt
+│       replacements_questions.txt
+│
+└───raw
+        session_1.txt
+        session_2.txt
+        session_3.txt

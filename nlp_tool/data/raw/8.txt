@@ -1,0 +1,103 @@
+>>Connected to the server!
+>>Kasik joined the chat!
+>>Ewelina joined the chat!
+Tomek: Czeœæ!
+Kasik:  hej
+Ewelina:  Helo³:)
+>>Ewelina left the chat.
+>>Ewelina joined the chat!
+>>EXPERIMENT STARTED.
+Ewelina:  Co znajduje siê w centralnej czêœci zdjêcia?
+Kasik:  w centralnej czêœci znajduje sie pomnik
+Ewelina:  Kogo on przedstawia?
+Kasik:  jana paw³a II
+Ewelina:  Jak wygl¹da przednia krawêdŸ ³awki?
+Kasik:  stoj¹ na niej znicze i kwiaty
+Ewelina:  Czy kwiaty znajduj¹ siê z przodu (jak siê patrzy na zdjêcie)?
+Kasik:  po lewej stronie ma³y bukiet po prawej stronie znicz
+Ewelina:  Co znajduje siê po lewej stronie od pomnika, obok ró¿owych kwiatów?
+Kasik:  chodnik, krzewy i wy¿ej korony drzew
+Ewelina:  Co znajduje siê przed dwoma zniczami po prawej stronie?
+Kasik:  czêœæ podwy¿szenia na którym jest umiejscowiony pomnik zrobiony z kostki brukowej
+Ewelina:  A co znajduje siê przed tymi dwoma zniczami?
+Kasik:  nic wiêcej tam nie ma
+Ewelina:  Co znajduje siê na podwy¿szeniu, na samej górze?
+Kasik:  na samej górze podwy¿szenia stoi pomnik
+Ewelina:  Co znajduje siê na samej górze podwy¿szenia o kolorze czerwonym?
+Kasik:  fragment flagi polski
+Ewelina:  Jaki kolor jest widoczny?
+Kasik:  oba i bia³y i czerwony, ale flaga jest zawiniêta od wiatru, obok jest druga flaga w kolorze bia³ym i ¿ó³tym
+Ewelina:  Czyli znajduj¹ siê tam dwie ma³e flagi obok siebie?
+Kasik:  tak
+Ewelina:  Co znajduje siê po prawej stronie od czerwonego podwy¿szenia?
+Kasik:  krzewy
+Ewelina:  Jak s¹ u³o¿one flagi (po której stronie która)?
+Kasik:  bia³o czerwona bli¿ej pomnika, bli¿ej prawej krawêdzi obrazka bia³o ¿ó³ta
+Ewelina:  Czy stoj¹ blisko siebie, czy jest pomiêdzy nimi przerwa?
+Kasik:  s¹ wsadzone prawdopodobnie w donicê, obok siebie, rozchylaj¹ siê ku górze
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Ewelina:  Jakiego koloru jest drugi budynek od lewej strony (po ró¿owym)?
+Kasik:  ¿ó³ty
+Ewelina:  Jakiego koloru s¹ jego okna?
+Kasik:  bia³e ramy
+Ewelina:  Co znajduje siê w lewym dolnym rogu br¹zowego budynku (4 z kolei od lewej)?
+Kasik:  kawa³ek fontanny, nie widzê której, a wokó³ rozkopany stary rynek
+Ewelina:  Co znajduje siê w lewej czêœci na pierwszym piêktrze i na parterze w tym¿e budynku?
+Kasik:  na parterze widaæ flagê Ukrainy, na pietrze szyby okien
+Ewelina:  Co znajduje siê na najwy¿szym piêtrze pi¹tego budynku od lewej?
+Kasik:  okna, nad nimi zdobiony gzyms i dachówki dachu
+Ewelina:  ile jest tam okiej, jakiego koloru?
+Kasik:  4 okna, bia³e ramy, jak we wszystkich budynkach i wokó³ be¿owe zdobienia
+Ewelina:  Co znajduje siê w w¹skim pasku na samym dole zdjêcia (od drugiego budynku do koñca)?
+Kasik:  ustawione zapory i p³oty, które uniemo¿liwiaj¹ wejœcie na teren rozkopów
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Ewelina:  Co znajduje siê w w¹skim prostok¹cie miêdzy oknami na budynku po lewej stronie?
+Kasik:  pomnik Maryi na wysokiej kolumnie
+Ewelina:  Co znajduje siê w w¹skim prostok¹cie miêdzy oknami w budynku po lewej stronie (zaraz obok lewej krawêdzi zdjêcia)?
+Kasik:  drzewo
+Ewelina:  Co znajduje siê przed pomnikiem
+Kasik:  plac miedzy budynkami rosna tam kwiaty i jest kilka schodkoch
+Ewelina:  Jak wygl¹da budynek po prawej stronie?
+Kasik:  ceglany, wysokie, strzeliste okna, czerwony dach
+Ewelina:  Ile ³¹cznie jest okien?
+Kasik:  2
+Ewelina:  Co znajduje siê po lewej stronie na dole tego budynku?
+Kasik:  drzwi
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Ewelina:  Co znajduje siê w w¹skim prostok¹cie po lewej stronie od wózka?
+Kasik:  kawa³ek wie¿owca, latarnia, albo jakiœ inny s³up, kawa³ek remontowanej drogi i inni przechodnie
+Ewelina:  co jest miêdzy dzieckiem a s³upem?
+Kasik:  jego mama
+Ewelina:  Jak wygl¹da górna kondygnacja budynku z oknami (mniejszego)?
+Kasik:  ³adnie zdobiona, strzelisty gzyms ma³e okienka na szczycie
+Ewelina:  ile jest okien?
+Kasik:  9
+Ewelina:  jak wygl¹da wie¿yczka na lewo od pomnika?
+Kasik:  okr¹g³a, ze œrodka wychodzi s³up z flag¹
+Ewelina:  jaka to flaga?
+Kasik:  nie widaæ, za ma³a
+Ewelina:  jakiego koloru
+Kasik:  nie widaæ, za ma³a
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Ewelina:  Co znajduje siê na lewo od zegara (czêœæ wie¿yczki i kawa³ek nieba)?
+Kasik:  no w³aœnie czêœæ wie¿yczki i kawa³ek nieba, a tak¿e malunki na fasadzie przedstawiajace jakieœ postaci w czerwonych p³aszczach
+Ewelina:  Co znajduje siê nad obrazem po prawej stronie na pierwszym pietrze?
+Kasik:  kolejny obraz
+Ewelina:  Co znajduje siê pod tym obrazem?
+Kasik:  rowniez obraz
+Ewelina:  Czy jest coœ miêdzy tymi dwoma obrazami?
+Kasik:  czêœæ fasady budynku
+Ewelina:  jak wygl¹da drugi obraz po prawej stronie na samej górze?
+Kasik:  facet w zbroi i koronie
+Ewelina:  a co znajduje siê na samym parterze poœrodku?
+Kasik:  drzwi do ratusza
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Ewelina:  Co znajduje siê za œwierkami w tle poœrodku?
+Kasik:  wie¿a zamku Przemys³a
+Ewelina:  Co znajduje siê po lewej stronie (za tabliczk¹)?
+Kasik:  mur zamku, czerwony z ceg³y, nad nim korony drzew, nad nimi niebo
+Ewelina:  Czy oprócz zamku jest tam coœ jescze bli¿ej prawej krawêdzi zdjêcia?
+Kasik:  reszta zamku, kawa³êk innego budynku, latarnia i drzewo
+>>EXPERIMENT FINISHED.
+>>Ewelina left the chat.
+>>Kasik left the chat.

@@ -1,0 +1,98 @@
+>>Connected to the server!
+>>Monika joined the chat!
+Tomek: Czeœæ!
+>>Miko³aj joined the chat!
+Tomek: Siemka
+Miko³aj: czesc
+Monika: Hej :)
+>>EXPERIMENT STARTED.
+Miko³aj: co przedstawia ten pomnik?
+Monika: Wa¿n¹ osobê
+Miko³aj: Co to za rzeŸba?
+Monika: Mê¿czyzna
+Miko³aj: ¯yje?
+Monika: Nie
+Miko³aj: Czy to Jan Pawe³ II?
+Monika: Tal
+Miko³aj: Co znajduje siê w po lewej?
+Monika: Kwiaty
+Miko³aj: Co jest na koñcu br¹zowego murku po prawej?
+Monika: Znicze
+Miko³aj: w rogu tego murku?
+Monika: Nie
+Miko³aj: a co jest po lewej stronie piedesta³u?
+Monika: Nie widzê
+Miko³aj: tam na tym stojaczku czarnym?
+Monika: Znicze
+Miko³aj: czy to pomnik JPII przy katedrze na ostrowie tumskim?
+Monika: TAK
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Miko³aj: co to za budynek po lewej stronie?
+Monika: Costa Coffee
+Miko³aj: co jest na górze fasady budynku czwartego od prawej?
+Monika: Nic takiego
+Miko³aj: co jest na elewacji budynku po prawo od RATUSZOWEJ (na tej samej wysokoœci co ten napis)?
+Monika: Wejœcie do kamienicy
+Miko³aj: co znajduje siê u do³u zdjêcia na 1/4 wysokoœci?
+Monika: fontanna
+Miko³aj: ca³y dó³ zdjêcia, co tam jeszcze jest?
+Monika: prace budowlane
+Miko³aj: czym jest ¿ó³ty przedmiot?
+Monika: Nie wiem
+Miko³aj: a po lewo od niego?
+Monika: Jakieœ rury
+Miko³aj: a po prawej?
+Monika: P³ytki
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Miko³aj: co jest na kolumnie po lewej?
+Monika: Postaæ Œwiêta
+Miko³aj: a po lewo od kolumny, na scienie, po trzecich oknach od lewej?
+Monika: Okna
+Miko³aj: co jest na przodzie budynku po lewo od kolumny, od I piêtra w górê?
+Monika: To samo, co na pierwszym piêtrze
+Miko³aj: mam tylko parter, nie wiem co jest na I piêtrze w³aœnie
+Monika: to co na parterze
+Miko³aj: czy na œrodku budynku po prawej, jest to samo co w jego prawej czêœci?
+Monika: tak
+Miko³aj: a po jego lewej stronie?
+Monika: brak okna
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Miko³aj: co znajduje siê bezpoœrednio ko³o goœcia z wozkiem?
+Monika: Pani (pewnie partnerka)
+Miko³aj: jak wygl¹da?
+Monika: Kostium w kwiaty, pe³ne buty czarne, œredniej d³ugoœci w³osy spiête w kitkê
+Miko³aj: co znajduje siê na samej górze elewacji wejœcia do minusa (ten budyneczek w œrodku, po prawo od auli)?
+Monika: Okna
+Miko³aj: w prawej czêœci budynku jest wie¿a, co znajduje siê na jej szczycie?
+Monika: flaga
+Miko³aj: jaka?
+Monika: Nie widaæ
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Miko³aj: co jest pod czarn¹ wnêk¹ œrodkowej wie¿yczki?
+Monika: Drzwi
+Miko³aj: to co?
+Monika: Zegar
+Miko³aj: po lewo od niego jest taka mala wie¿yczka
+Monika: tak
+Miko³aj: nad zlotym herbem co jest bezpoœrednio?
+Monika: No zegar
+Miko³aj: z tylu ratusza jest g³ówna wie¿a, na przedniej elewacji budynku s¹ trzy ma³e (na bokach i w œrodku), co jest pod t¹ ma³¹ wie¿yczk¹ w œrodku (a nad zlotym herbem)>
+Monika: Naprawde zegar
+Miko³aj: czyli tam s¹ dwa zegary?
+Monika: tak
+Miko³aj: lol, ok, a co jest po prawo od herbu, na malowidle drugim od prawej?
+Monika: Jakiœ pan
+Miko³aj: co jest na samym dole w œrodku, czy to wejœcie do ratusza?
+Monika: tak, to jest wejœcie
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Miko³aj: co jest w tle tablicy informacyjnej po lewej stronie?
+Monika: Mur
+Miko³aj: z wapienia?
+Monika: Nie, z cegie³
+Miko³aj: co jest w tle obrazka?
+Monika: Wie¿a na tle nieba
+Miko³aj: czy to nie czasem zame?
+Monika: tak
+Miko³aj: tan w poznaniu, chyba Przemys³a?
+Monika: tak
+>>EXPERIMENT FINISHED.

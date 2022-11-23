@@ -1,0 +1,72 @@
+>>Connected to the server!
+>>Madzia joined the chat!
+Tomek: Cześć!
+Madzia: Hej!
+>>szczupakkrolwod joined the chat!
+Tomek: Odpowiedzi możesz oczywiście udzielać na podstawie własnej wiedzy oraz wiedzy z ilustracji. Nie ma ograniczneń
+>>EXPERIMENT STARTED.
+Tomek: Zaczynamy eksperyment
+Madzia: Co znajduje się koło dwóch zniczy po prawej stronie pomnika? Od góry są dwa białe znicze a co pod nimi?
+szczupakkrolwod: Głównie kostka brukowa, zniczy w tym miejscu znajduje się wsm 6
+Tomek: Paiętajcie, że możęcie przybliżyć obrazek klikając i przytrzymując na nim lewy przycisk myszy.
+Madzia: wsm?
+szczupakkrolwod: skrót ten oznacza w sumie
+Madzia: ok, czyli jest 6 zniczy, ja widzę tylko dwa. a co znajduje się ponad zniczami? na końcu tego borodwego murka?
+szczupakkrolwod: szara, mocno zakryta przez murek, doniczka z malutką tują oraz wtknięte w doniczke dwie flagi: polska, i papieżowa
+Madzia: Czyli skoro jest papieska flaga, domyślam się że postacią z pomnika jest Jan Paweł II?
+szczupakkrolwod: jeszcze jak
+Madzia: ok, a co znajduje się po lewej stronie od pomnika, na wysokości klatki piersiowej JPII?
+szczupakkrolwod: generalnie dużo drzew, ale jest dziura przez którą widać okno jakiegoś budynku
+Madzia: to chyba ostatnie pytanie do tego zdjęcia, co widzisz na tym stojaku z lewej strony pomnika, pomiędzy pierwszą a drugą noga tego stojaka?
+szczupakkrolwod: jakieś kwiatki
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Madzia: jaki kolor ma pierwsza widoczna w całości kamienica od lewej strony?
+szczupakkrolwod: żółty
+Madzia: czy jest coś szczególnego na fasadzie trzeciej widocznej w całości kamienicy licząc od lewej na wysokości parteru/pierwszego okna na pierwszy piętrze od lewej?
+szczupakkrolwod: na fasadzie nie ma nic, ale przed jest pomnik fontanny który ją zasłania
+Madzia: ok, a następna kamienica (jedna w prawo), najwyższy rząd okien? co tam widzisz?
+szczupakkrolwod: zasadniczo nic
+Madzia: a ile jest okien?
+szczupakkrolwod: 4
+Madzia: rozumiem że na dole zdjęcia widoczny jest remont? (płot i materiały budowlane)?
+szczupakkrolwod: no tak rozkopane
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Madzia: budynek po lewej, ta węższa fasada, piętro pierwsze i drugie, czy na środku są okna? bo ja widzę tylko jedno po lewej i drugie po prawej i mam dziurę w środku? czy tam też jest po prostu trzecie okno w każdym rzędzie?
+szczupakkrolwod: jest dziura na okno ale jest zamurowana takimi cegłami jak wszędzie, w obdydwu przypadkach
+Madzia: ten sam budynek, druga dłuższa ściana. wysokość parteru i pierwszego piętra, za trzema oknami od lewej licząc. co tam jest?
+szczupakkrolwod: wejście
+Madzia: kto znajduje się na kolumnie/pomniku obok tego budynku?
+szczupakkrolwod: chyba szara maryja
+Madzia: drugi budynek, środkowe okno. Czy różni się czymś od tego po prawej stronie?
+szczupakkrolwod: nie
+Madzia: żeby było jasne, mówimy o tym budynku na pierwszym planie po prawej stronie zdjęcia, nie o tym z tyłu w tle?
+szczupakkrolwod: tak
+Madzia: A pierwsze okno od lewej w tym budynku? I przestrzeń pod nim sięgająca aż do tego rzędu roślin przy chodniku? Czy tam coś jest?
+szczupakkrolwod: no to tak okno jest zamurowane, poniżej znajdują się drzwi, jeszcze niżej jest jakiś kloc o kolorze rdzewiejącej miedzi no a ptem chodnik i te kwiatki co widzisz
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Madzia: Pan z dzieckiem w wózku, czy ktoś idzie koło niego po lewej?
+szczupakkrolwod: jakaś pani i pokazuje palcem w strone pomniku mickiewicza
+Madzia: wejście boczne do Auli UAM, czylito jakby bezpośrdenio w linii nad śmietnikiem, na pierwszym i drugim piętrze są po trzy okna, a nad nimi?
+szczupakkrolwod: 4 mniejsze okienka
+Madzia: a wieża po prawej, co na niej jest?
+szczupakkrolwod: ten słupek na flage
+Madzia: ale bez flagi?
+szczupakkrolwod: chyba jest ale bardzo owinięta
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Madzia: na dole zdjęcia na środku, czy tam znajduje się wejście?
+szczupakkrolwod: tak
+Madzia: nad łową drugiej postaci na niebieskim tle po prawej, czy tam znajduje się element symetryczny do tego po lewej? (od lewej upraszczając jest prostokąt, potem koła i co na ostatnim)?
+szczupakkrolwod: ale których niebieskich tych dużych czy małych
+Madzia: tych dużych, na drugą od dołu
+szczupakkrolwod: aa dobra tak jest też prostokąt
+Madzia: trzecia postać po prawej od złotego herbu do góry, czy czym się odróżnia od pozostałych? (pod koziołkami, bo domyślam się że nad herbem są widoczne trykające się koziołki, też potwierdź)
+szczupakkrolwod: zasadniczo to się niczym nie różni i koziołków akurat nie ma
+Madzia: a nad koziołkami (schowanymi) na tej środkowej wieży coś jest?
+szczupakkrolwod: no tam jest ten dzwon
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Madzia: co to za budynek widoczny na zdjęciu?
+szczupakkrolwod: zamek przy starym rynku
+Madzia: a po lewej jest rozpadający sięmur prawda?
+szczupakkrolwod: no czy rozpadający się to bym nie powiedział tam cegieł nie ma po prostu
+>>EXPERIMENT FINISHED.
+>>Pictures changed to: 5a.jpg and 5b.jpg

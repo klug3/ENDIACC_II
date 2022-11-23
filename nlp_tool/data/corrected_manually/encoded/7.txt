@@ -1,0 +1,111 @@
+>>EXPERIMENT STARTED.
+Mateusz: Co jest na środku obrazka?
+Maciej: Osoba
+Mateusz: Czy to jakaś osoba święta?
+Maciej: Dokładnie tak
+Mateusz: Czy ta osoba żyła w XX wieku?
+Maciej: Tak
+Mateusz: Czy to Jan Paweł II?
+Maciej: Tak
+Mateusz: Co jest po lewej stronie obok dwóch zniczy w prawej części obrazka?
+Maciej: 4 znicze
+Mateusz: Jeszcze 4 czy łącznie 4?
+Maciej: Jeszcze 4
+Mateusz: Co jest nad krzakami obok prawej ręki JPII? (Jego prawej ręki)
+Maciej: Okno jakiegoś domu
+Mateusz: Co znajduje się bezpośrednio nad zniczami?
+Maciej: Murek i dwie flagi
+Mateusz: Jakie flagi?
+Maciej: Narodowa i papieska
+Mateusz: A na prawo od flag?
+Maciej: Krzaki
+Mateusz: Tylko?
+Maciej: Tak
+Mateusz: A czy za murkiem jest jakaś donica?
+Maciej: Tak, jest szara donica
+Mateusz: Czy po lewej stronie jest jakaś ławeczka?
+Maciej: Tak, zgadza się
+Mateusz: A co na niej jest?
+Maciej: Znicz i jakieś kwiatki
+Mateusz: A czy na tej ławce jest coś pomiędzy pierwszym a drugim słupkiem tej ławki?
+Maciej: Nie, nic tam nie leży.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Mateusz: Jak wygląda drugi budynek od lewej?
+Maciej: Jest to żółta kamienica, która z prawej swojej strony jest lekko zniszczona
+Mateusz: Jak wygląda parter i pierwsze piętro czwartej kamienicy od lewej?
+Maciej: Piętro jest koloru zielonego z ciemnymi oknami i białymi płaskorzeźbami pod nimi, a parter jest koloru brązowego i w oknie widać flagę Ukrainy
+Mateusz: A co znajduje się w lewej części tych pięter?
+Maciej: Czy chodzi ci może o to co stoi przed tą kamienicą i przysłania te dwa poziomy?
+Mateusz: Owszem, co to jest?
+Maciej: Jest to fontanna z posągiem
+Mateusz: Jakim posągiem?
+Maciej: Nie wiem
+Mateusz: Jak wygląda trzecie piętro czwartej kamienicy od prawej?
+Maciej: Jest koloru beżowego z ciemnymi oknami
+Mateusz: Co jest w dolnej części obrazka?
+Maciej: Płot i różne materiały budowlane
+Mateusz: Czyżby trwały tam jakieś cudne remonty na rynku?
+Maciej: Dokładnie tak
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Mateusz: Co jest pomiędzy oknami lewego budynku?
+Maciej: A o którą część budynku Ci chodzi? Węższą czy szerszą?
+Mateusz: Węższa?
+Maciej: Również są otwory okienne ale są one zamurowane
+Mateusz: A w szerszej?
+Maciej: Wszystkie okna są normalne a w dolnej części budynku są drzwi
+Mateusz: Obok żółtej skrzynki?
+Maciej: Tak, po lewej stronie od skrzynki są drzwi
+Mateusz: A nad nimi, na wysokości pierwszego piętra?
+Maciej: Jest okno
+Mateusz: Co jest na szczycie szarej kolumny która znajduje się między budynkami?
+Maciej: Jest to figura
+Mateusz: Czyja?
+Maciej: Z tego co mi się wydaje przedstawia ona Matkę Bożą
+Mateusz: Czy za krzakami z kwiatami jest trawa, a za nimi chodnik?
+Maciej: Tak
+Mateusz: Co znajduje się na lewo od pierwszego okna od prawej prawego budynku?
+Maciej: Drugie okno które jest normalne a kolejny otwór okienny jest już zamurowany
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Mateusz: Co jest na lewo od mężczyzny z dzieckiem w wózku?
+Maciej: Prawdopodobnie jego żona, a dalej płot i remonty
+Mateusz: Jak wygląda najwyższe piętro tego budynku z tylu na wysokości kosza na śmieci?
+Maciej: Jego ściany są białe i ma malutkie okna
+Mateusz: A jest tam jakiś zegar?
+Maciej: Nie
+Mateusz: Co jest nad tą jakby wieżą na lewo od głowy pomnika?
+Maciej: Maszt, z prawdopodobnie jakąś flagą
+Mateusz: Czy w tym budynku są jakieś okrągłe okna?
+Maciej: Nie
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Mateusz: Co jest na środku zdjęcia w jego dolnej części?
+Maciej: Drzwi wejściowe
+Mateusz: A na lewo i prawo od nich?
+Maciej: Na ścianie wiszą lampy a dalej są okna osłonięte kratami
+Mateusz: Co jest nad złotym herbem na środku u góry?
+Maciej: Zegar
+Mateusz: A jeszcze wyżej?
+Maciej: Drzwiczki za którymi kryją się koziołki
+Mateusz: Czy na prawo od herbu są cztery namalowane wizerunki?
+Maciej: Tak
+Mateusz: Co jest nad drugą od dołu namalowaną osobą z prawej strony?
+Maciej: Kolejne malowidło przedstawiające jakąś postać
+Mateusz: A pomiędzy nimi na tym jakby półpiętrze?
+Maciej: Również jest jakieś malowidło ale niestety nie wiem co ono przedstawia
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Mateusz: Jak wygląda budynek znajdujący się w centrum zdjęcia?
+Maciej: Jest to wieża
+Mateusz: I jak wygląda?
+Maciej: Jest zbudowana z cegły, ma małe okna, a na szczycie ma spadzisty dach
+Mateusz: A jak wygląda budynek na prawo od wieży?
+Maciej: Jest to integralna część tej wieży
+Mateusz: Co jest na lewo od drzew znajdujących się przed wieża?
+Maciej: Jest to mur również zbudowany z cegły
+Mateusz: Ma jakieś otwory?
+Maciej: Tak, ale z tego co mi się wydaje są one zamurowane
+Mateusz: A co jest pomiędzy integralną częścią wieży a małym budynkiem po prawej?
+Maciej: Znajduje się tam biały budynek
+Mateusz: Jest on duży?
+Maciej: Jest takiej samej wysokości co budynek przystający do wieży
+Mateusz: A czy jest jakiś mur lub brama między tym białym budynkiem a tym małym budynkiem po prawej?
+Maciej: Tak, przed nimi stoi mur z bramą odgradzający teren na którym stoją
+>>EXPERIMENT FINISHED.

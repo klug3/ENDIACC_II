@@ -1,0 +1,39 @@
+>>EXPERIMENT STARTED.
+Jan: Czyj to pomnik?
+Kinga: Pomnik przedstawia Jana Pawła II, który znajduje się niedaleko Katedry w Poznaniu.
+Jan: Co widać po prawej stronie pomnika?
+Kinga: Po prawej stronie znajdują się dwie flagi (biało-czerwona i biało-żółta), znicze oraz krzaki i drzewa.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Jan: Co widzisz na obrazku?
+Kinga: Widzę kilka kolorowych kamienic obok siebie. Znajdują się one na rynku w centrum miasta (jest to najprawdopodobniej Poznań). Na placu przed kamienicami prowadzone są prace remontowe.
+Jan: Jest dzień czy noc?
+Kinga: Zdjęcie zrobione jest w ciągu dnia. Promienie słońca przebijają się przez chmury.
+Jan: Jakie kolory rozpoznajesz?
+Kinga: Pierwsza kamienica po prawej ma kolor łososiowy, następna jest żółta, potem pomarańczowa, zielona, beżowa, zielona, brązowa i ostatnia żółta.
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Jan: Z czego wykonane są budynki?
+Kinga: Budynki wykonane są z cegły.
+Jan: Czy na obrazku można dostrzec naturę?
+Kinga: Tak. Przed budynkami znajduje się jasnozielony trawnik oraz posadzone są przed nim jasne kwiaty. Obok budynku po prawej stronie znajduje się drzewo.
+Jan: Ile okien na budynek po prawej?
+Kinga: Budynek po prawej stronie posiada trzy duże okna.
+Jan: Co znajduje się między budynkami?
+Kinga: Między budynkami znajduje się pomnik, najprawdopodobniej Matki Bożej bądź innej osoby świętej.
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Jan: Czy obok mężczyzny z wózkiem jest ktoś jeszcze?
+Kinga: Obok mężczyzny z wózkiem znajduje się kobieta. Na zdjęciu widać też dwóch innych przechodniów.
+Jan: Co znajduje się na budynku z prawej?
+Kinga: Na budynku nic. Przed nim stoi pomnik.
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Jan: Gdzie znajduje się ten budynek?
+Kinga: Na Starym Rynku w Poznaniu.
+Jan: Czy coś znajduje się nad złotym herbem?
+Kinga: Zegar
+Jan: Co jest na samym dole budynku lub przed nim
+Kinga: Zdjęcie przedstawia tylko ratusz.
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Jan: Co widać na zdjęciu?
+Kinga: Na zdjęciu widać zabytkowe budynku w centrum Poznania, fragmentu murów oraz park.
+Jan: Czy coś znajduję się po lewej stronie drzew?
+Kinga: Mury, latarnia oraz tablica z zasadami korzystania z parku.
+>>EXPERIMENT FINISHED.

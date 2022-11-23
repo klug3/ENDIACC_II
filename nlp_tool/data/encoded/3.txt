@@ -1,0 +1,98 @@
+>>Connected to the server!
+>>Monika joined the chat!
+Tomek: Cześć!
+>>Mikołaj joined the chat!
+Tomek: Siemka
+Mikołaj: czesc
+Monika: Hej :)
+>>EXPERIMENT STARTED.
+Mikołaj: co przedstawia ten pomnik?
+Monika: Ważną osobę
+Mikołaj: Co to za rzeźba?
+Monika: Mężczyzna
+Mikołaj: Żyje?
+Monika: Nie
+Mikołaj: Czy to Jan Paweł II?
+Monika: Tal
+Mikołaj: Co znajduje się w po lewej?
+Monika: Kwiaty
+Mikołaj: Co jest na końcu brązowego murku po prawej?
+Monika: Znicze
+Mikołaj: w rogu tego murku?
+Monika: Nie
+Mikołaj: a co jest po lewej stronie piedestału?
+Monika: Nie widzę
+Mikołaj: tam na tym stojaczku czarnym?
+Monika: Znicze
+Mikołaj: czy to pomnik JPII przy katedrze na ostrowie tumskim?
+Monika: TAK
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Mikołaj: co to za budynek po lewej stronie?
+Monika: Costa Coffee
+Mikołaj: co jest na górze fasady budynku czwartego od prawej?
+Monika: Nic takiego
+Mikołaj: co jest na elewacji budynku po prawo od RATUSZOWEJ (na tej samej wysokości co ten napis)?
+Monika: Wejście do kamienicy
+Mikołaj: co znajduje się u dołu zdjęcia na 1/4 wysokości?
+Monika: fontanna
+Mikołaj: cały dół zdjęcia, co tam jeszcze jest?
+Monika: prace budowlane
+Mikołaj: czym jest żółty przedmiot?
+Monika: Nie wiem
+Mikołaj: a po lewo od niego?
+Monika: Jakieś rury
+Mikołaj: a po prawej?
+Monika: Płytki
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Mikołaj: co jest na kolumnie po lewej?
+Monika: Postać Święta
+Mikołaj: a po lewo od kolumny, na scienie, po trzecich oknach od lewej?
+Monika: Okna
+Mikołaj: co jest na przodzie budynku po lewo od kolumny, od I piętra w górę?
+Monika: To samo, co na pierwszym piętrze
+Mikołaj: mam tylko parter, nie wiem co jest na I piętrze właśnie
+Monika: to co na parterze
+Mikołaj: czy na środku budynku po prawej, jest to samo co w jego prawej części?
+Monika: tak
+Mikołaj: a po jego lewej stronie?
+Monika: brak okna
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Mikołaj: co znajduje się bezpośrednio koło gościa z wozkiem?
+Monika: Pani (pewnie partnerka)
+Mikołaj: jak wygląda?
+Monika: Kostium w kwiaty, pełne buty czarne, średniej długości włosy spięte w kitkę
+Mikołaj: co znajduje się na samej górze elewacji wejścia do minusa (ten budyneczek w środku, po prawo od auli)?
+Monika: Okna
+Mikołaj: w prawej części budynku jest wieża, co znajduje się na jej szczycie?
+Monika: flaga
+Mikołaj: jaka?
+Monika: Nie widać
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Mikołaj: co jest pod czarną wnęką środkowej wieżyczki?
+Monika: Drzwi
+Mikołaj: to co?
+Monika: Zegar
+Mikołaj: po lewo od niego jest taka mala wieżyczka
+Monika: tak
+Mikołaj: nad zlotym herbem co jest bezpośrednio?
+Monika: No zegar
+Mikołaj: z tylu ratusza jest główna wieża, na przedniej elewacji budynku są trzy małe (na bokach i w środku), co jest pod tą małą wieżyczką w środku (a nad zlotym herbem)>
+Monika: Naprawde zegar
+Mikołaj: czyli tam są dwa zegary?
+Monika: tak
+Mikołaj: lol, ok, a co jest po prawo od herbu, na malowidle drugim od prawej?
+Monika: Jakiś pan
+Mikołaj: co jest na samym dole w środku, czy to wejście do ratusza?
+Monika: tak, to jest wejście
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Mikołaj: co jest w tle tablicy informacyjnej po lewej stronie?
+Monika: Mur
+Mikołaj: z wapienia?
+Monika: Nie, z cegieł
+Mikołaj: co jest w tle obrazka?
+Monika: Wieża na tle nieba
+Mikołaj: czy to nie czasem zame?
+Monika: tak
+Mikołaj: tan w poznaniu, chyba Przemysła?
+Monika: tak
+>>EXPERIMENT FINISHED.

@@ -1,0 +1,61 @@
+>>EXPERIMENT STARTED.
+Jakub: Czy na obrazku znajduje siê papie¿ czy Adam Mickiewicz
+Klaudia Bonik: Na obrazku znajduje siê Papie¿
+Jakub: Czy po prawej znajduj¹ siê 3 czy 2 znicze?
+Klaudia Bonik: Liczba zniczy nie jest równa ani 3 ani 2
+Jakub: Czy pomiêdzy iglic¹ zwieñczaj¹c¹ br¹zowy element, a JP2 znajduje siê jakiœ element pomnika czy widaæ krzaki?
+Klaudia Bonik: Znajduje siê element, ale nie pomnika
+Jakub: Czy pod k¹tem 135 stopni patrz¹c w prawo i w dó³ od drzewa koloru be¿owego po lewej stronie obrazka znajduje siê zielona sceneria?
+Klaudia Bonik: Je¿eli myœlimy o tych samych 135 stopniach to nie
+Jakub: Co siê tam znajduje?
+Klaudia Bonik: Be¿owy budynek wraz z oknem skierowanym w stronê pomnika
+Jakub: Co znajduje siê po lewej stronie od znicza udekorowanego czerwonymi kwiatkami po lewej stronie obrazka?
+Klaudia Bonik: Znajduje siê tam bukiet œwie¿ych kwiatów
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Jakub: Co znajduje siê na górze, pod trójk¹tnym gzymsem 4 kamienicy od prawej?
+Klaudia Bonik: Okna
+Jakub: Co znajduje siê w pionie od do³u do góry patrz¹c w kamienicy z ukraiñsk¹ flag¹ po lewej od jej wejœcia?
+Klaudia Bonik: Fontanna Apolla
+Jakub: Jakiego koloru jest kamienica po lewej stronie restauracji Ratuszowa?
+Klaudia Bonik: Piaskowo-¿ó³tego
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Jakub: Co znajduje siê na szczycie kolumny pomiêdzy budynkami (pomnik)?
+Klaudia Bonik: Matka ka¿dego z nas (Boska) 
+Jakub: Ile okien widocznych na obrazku ma budynek po prawej stronie nie licz¹c tego widocznego za drzewem?
+Klaudia Bonik: Dwa + dodatkowo jedno zamurowane 
+Jakub: Czy zamurowane okno znajduje siê po lewej?
+Klaudia Bonik: Tak, nad drzwiami
+Jakub: Czy coœ znajduje siê w szpalerze bylin u do³u obrazka mniej wiêcej w po³owie?
+Klaudia Bonik: W tle za bylinami widaæ troszkê trawnika
+Jakub: Co znajduje siê w pionie po lewej stronie od ¿ó³tej skrzynki i pomnika nie licz¹c okna przy samym dachu?
+Klaudia Bonik: Pod tym oknem znajduje siê jeszcze jedno okno i w tym samym pionie znajduj¹ siê te¿ drzwi do budynku
+Jakub: Ile okien znajduje siê na œcianie przy samej lewej krawêdzi obrazka?
+Klaudia Bonik: 5 normalnych, 2 zamurowane oraz 2 w miejscu gdzie jest dach po bocznej stronie budynku
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Jakub: Co znajduje siê po lewej stronie pana z wózkiem? W jego pobli¿u metra za³ó¿my.
+Klaudia Bonik: Ogrodzenie jakiejœ budowy
+Jakub: Co znajduje siê w obrêbie trójk¹ta tworz¹cego dach drugiego budynku od lewej auli UAMu?
+Klaudia Bonik: 4 okna w trójk¹t u³o¿one o podstawie 3 i ozdobne zdobienia wokó³ nich
+Jakub: Co znajduje siê nad barierkami okr¹g³ej wie¿y na szczycie dachu po prawej stronie obrazka?
+Klaudia Bonik: Kawa³ek kolumny z otworami, które albo s¹ oknami albo nieudan¹ wentylacj¹
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Jakub: Co znajduje siê na œrodku sukiennic na dole budynku?
+Klaudia Bonik: Drzwi z bia³¹ kartk¹, ale nie potrafiê powiedzieæ co siê na niej znajduje - jakiœ napis
+Jakub: Co znajduje siê nad portretem po prawej, drugim od do³u?
+Klaudia Bonik: To samo co nad portretem po lewej drugim od do³u
+Jakub: Czy na górze w szeregu portretów po lewej od pierwszego z prawej te¿ znajduje siê portret?
+Klaudia Bonik: Tak
+Jakub: Co znajduje siê nad z³otym zdobieniem na œrodku Ratusza?
+Klaudia Bonik: Zegar
+Jakub: Co znajduje siê u do³u wie¿y nad wspomnianym zegarem?
+Klaudia Bonik: Miejsce z którego wychodz¹ kozio³ki i zderzaj¹ siê rogami
+Jakub: A czy coœ po lewej od kozio³ków przes³ania niebo?
+Klaudia Bonik: S¹ zdobienia na górze lecz nic nie zas³ania nieba
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Jakub: Co znajdujê siê po prawej stronie od wie¿y zamku i idzie a¿ do ziemi?
+Klaudia Bonik: Dalsza czêœæ budynku
+Jakub: Jak rozmieszczone s¹ okna na ca³oœci budynku?
+Klaudia Bonik: W stylu gotycko-renesansowym - wszystko w kolumnach
+Jakub: Jakie materia³y poza ceg³¹ sk³adaj¹ siê na budynek?
+Klaudia Bonik: Jest to jakiœ kamieñ i fragment jest nowy - betonowy
+>>EXPERIMENT FINISHED.

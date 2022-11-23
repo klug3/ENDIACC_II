@@ -1,0 +1,87 @@
+>>Connected to the server!
+>>Pszemek joined the chat!
+>>RADOSŁAW joined the chat!
+Tomek: asdahsdasd
+RADOSŁAW: cokolwiek
+Pszemek: cokolwiek
+>>EXPERIMENT STARTED.
+Pszemek: Czy koło dwóch zniczy jest trzeci?
+RADOSŁAW: tak jest
+Pszemek: czy koło trzeciego znicza jest czwarty znicz?
+RADOSŁAW: tak
+Pszemek: ile jeszcze tych zniczy?
+RADOSŁAW: 5 zniczy, 4 o podobnej wielkosci w rzedzie i jeden wiekszy za nimi
+Pszemek: Czy jest coś, poza krzakami, pomiędzy posągiem a tym czymś sterczącym na końcu czerwonego murku?
+RADOSŁAW: 1. jednak mi sie pomylilo i w tym rzedzie jest 5 zniczy, za nimi 1.   2.  którym końcem murku?
+Pszemek: Tym końcem który jest na zdjęciu, murek biegnie od lewego dolnego rogu zdjęcia aż do tego sterczącego czegoś
+RADOSŁAW: jest posąg potem jedna flaga stercząca z końca murku na lewo i potem druga flaga stercząca na prawo
+Pszemek: kogo przedstawia posąg?
+RADOSŁAW: Papieża Polaka
+Pszemek: jakie to flagi, te obok posągu
+RADOSŁAW: ta stercząca w lewo to flaga Polski, druga to flaga w chyba watykanu, taka biało żółta
+Pszemek: Co to jest ta taka ławeczka jakby obok posągu, po lewej stronie zdjęcia
+RADOSŁAW: nie wiem chy7ba
+Pszemek: chyba co?
+RADOSŁAW: chyba nie wiem, wyglada jak cos malego wbite w ziemie
+Pszemek: czy jest coś, poza roślinami, po prawej i w dół od brązowej rośliny po lewej stronie zdjęcia?
+RADOSŁAW: jest dziura miedzy drzewami i krzakami, widać kawałek domu z oknem
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Pszemek: jaki kolor ma elewacja drugiego budynku po lewej
+RADOSŁAW: licząc od pierwszego pełnego budynku, czy licząc razem z kawałkiem budynku który jest po lewej
+Pszemek: ok, po lewej jest różowy budynek, taki niepełny, czy ten budynek ma widoczne tylko dwa okna?
+RADOSŁAW: tak
+Pszemek: to jakie kolor ma kolejny budynek?
+RADOSŁAW: bladożółty
+Pszemek: ok, kolejny budynek jest różowy, a w kolejny na pierwszym piętrze jest ile okien? I czy wszystkie są takie same?
+RADOSŁAW: 13 łącznie na wsyztskich 4 piętrach
+Pszemek: ok, kolejny budynek idąc w prawo, co jest na ostatnim piętrze?
+RADOSŁAW: 4 okna
+Pszemek: czy na dole zdjęcia widać parkujące samochody?
+RADOSŁAW: nie, na dole zdjęcia jest rozkopana ulica z takimi płotami zabezpieczającymi te rozkopane fragmenty
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Pszemek: idąc od lewej, pierwszy budynek z czerwonej cegły, ile okien jest na krótszej ścianie? Nie licząc tych dwóch małych na samej górze, we wnękach
+RADOSŁAW: 8
+Pszemek: ok, na długiej ścianie jest 9 prostokątnych okien ułożonych w trzy rzędy po trzy okna w każdym. A potem jest kolejna kolumna okien, czy (idąc od góry) drugie i trzecie okno ma taki kształt jak pierwsze?
+RADOSŁAW: wydaje mi się że to jest wejście a nie okno
+Pszemek: czyli jest okno - okno - wejście?
+RADOSŁAW: tak, wejście ma podobny kształt do okien ale jest większe
+Pszemek: ok, idąc dalej - co jest na tym posągu koło tego budynku?
+RADOSŁAW: nie wiem, jakaś statua ale nie widać za dobrze, możliwe że matka boska ale to tak 50% pewności maksymalnie mam
+Pszemek: ok, drugi budynek z czerwonej cegły - ile widać okien?
+RADOSŁAW: 2 ale duze, na całość wysokości ściany
+Pszemek: a co tam jest poza oknami? Są, tak jakby, trzy miejsca na okna, widzę że w tym pierwszym od lewej jest okno, co jest dalej?
+RADOSŁAW: tego pierwszego od lewej nie liczyłem jako okna bo nie ma szyby tylko jest wypełnione z cegłą, licząc to jako okno to są 3 okna
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Pszemek: co jest po lewej stronie od faceta z wózkiem dziecięcym?
+RADOSŁAW: baba
+Pszemek: jaki ma kolor skóry?
+RADOSŁAW: biały
+Pszemek: stara czy młoda?
+RADOSŁAW: średni wiek, powiedziałbym że ok 30 lat
+Pszemek: po lewej stronie od posągu jest taka wieżyczka, co jest nad nią?
+RADOSŁAW: niebo
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Pszemek: co jest pomiędzy drugim i trzecim obrazkiem z niebieskim tłem? (te po lewej stronie, liczę od dołu)
+RADOSŁAW: ozdobne malunki na ścianie
+Pszemek: a symetrycznie po lewej?
+RADOSŁAW: chyba po prawej
+Pszemek: tak, po prawej
+RADOSŁAW: tak dokładnie takie samo jak po prawej
+Pszemek: co jest nad złotym czymś na górze?
+RADOSŁAW: zegar
+Pszemek: a nad zegarem?
+RADOSŁAW: wieżyczka
+Pszemek: co jest na parterze, pomiędzy drugim a czwartym łukiem?
+RADOSŁAW: łuk, a w łuku drzwi
+Pszemek: czy na zdjęciu są dwa zegary?
+RADOSŁAW: tak
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Pszemek: jaki budynek jest na środku zdjęcia? xD
+RADOSŁAW: czerwony
+Pszemek: jakiś konkretniejszy opis?
+RADOSŁAW: budynek z czerwonej cegły, na pierwszym planie wieża z flankami na góze oraz dachem w kształce czworościanu. Za wieżą, jest reszta budynku, również z czerwonej cegły, dość ozdobny
+Pszemek: czy za tablicą informacyjną po lewej stronie jest jakiś budynek?
+RADOSŁAW: jest mur, wychodzący z wieży i idący w lewo do skraju zdjęcia
+>>EXPERIMENT FINISHED.
+>>RADOSŁAW left the chat.
+>>Pszemek left the chat.

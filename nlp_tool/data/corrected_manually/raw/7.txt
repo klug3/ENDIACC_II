@@ -1,0 +1,111 @@
+>>EXPERIMENT STARTED.
+Mateusz: Co jest na œrodku obrazka?
+Maciej: Osoba
+Mateusz: Czy to jakaœ osoba œwiêta?
+Maciej: Dok³adnie tak
+Mateusz: Czy ta osoba ¿y³a w XX wieku?
+Maciej: Tak
+Mateusz: Czy to Jan Pawe³ II?
+Maciej: Tak
+Mateusz: Co jest po lewej stronie obok dwóch zniczy w prawej czêœci obrazka?
+Maciej: 4 znicze
+Mateusz: Jeszcze 4 czy ³¹cznie 4?
+Maciej: Jeszcze 4
+Mateusz: Co jest nad krzakami obok prawej rêki JPII? (Jego prawej rêki)
+Maciej: Okno jakiegoœ domu
+Mateusz: Co znajduje siê bezpoœrednio nad zniczami?
+Maciej: Murek i dwie flagi
+Mateusz: Jakie flagi?
+Maciej: Narodowa i papieska
+Mateusz: A na prawo od flag?
+Maciej: Krzaki
+Mateusz: Tylko?
+Maciej: Tak
+Mateusz: A czy za murkiem jest jakaœ donica?
+Maciej: Tak, jest szara donica
+Mateusz: Czy po lewej stronie jest jakaœ ³aweczka?
+Maciej: Tak, zgadza siê
+Mateusz: A co na niej jest?
+Maciej: Znicz i jakieœ kwiatki
+Mateusz: A czy na tej ³awce jest coœ pomiêdzy pierwszym a drugim s³upkiem tej ³awki?
+Maciej: Nie, nic tam nie le¿y.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Mateusz: Jak wygl¹da drugi budynek od lewej?
+Maciej: Jest to ¿ó³ta kamienica, która z prawej swojej strony jest lekko zniszczona
+Mateusz: Jak wygl¹da parter i pierwsze piêtro czwartej kamienicy od lewej?
+Maciej: Piêtro jest koloru zielonego z ciemnymi oknami i bia³ymi p³askorzeŸbami pod nimi, a parter jest koloru br¹zowego i w oknie widaæ flagê Ukrainy
+Mateusz: A co znajduje siê w lewej czêœci tych piêter?
+Maciej: Czy chodzi ci mo¿e o to co stoi przed t¹ kamienic¹ i przys³ania te dwa poziomy?
+Mateusz: Owszem, co to jest?
+Maciej: Jest to fontanna z pos¹giem
+Mateusz: Jakim pos¹giem?
+Maciej: Nie wiem
+Mateusz: Jak wygl¹da trzecie piêtro czwartej kamienicy od prawej?
+Maciej: Jest koloru be¿owego z ciemnymi oknami
+Mateusz: Co jest w dolnej czêœci obrazka?
+Maciej: P³ot i ró¿ne materia³y budowlane
+Mateusz: Czy¿by trwa³y tam jakieœ cudne remonty na rynku?
+Maciej: Dok³adnie tak
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Mateusz: Co jest pomiêdzy oknami lewego budynku?
+Maciej: A o któr¹ czêœæ budynku Ci chodzi? Wê¿sz¹ czy szersz¹?
+Mateusz: Wê¿sza?
+Maciej: Równie¿ s¹ otwory okienne ale s¹ one zamurowane
+Mateusz: A w szerszej?
+Maciej: Wszystkie okna s¹ normalne a w dolnej czêœci budynku s¹ drzwi
+Mateusz: Obok ¿ó³tej skrzynki?
+Maciej: Tak, po lewej stronie od skrzynki s¹ drzwi
+Mateusz: A nad nimi, na wysokoœci pierwszego piêtra?
+Maciej: Jest okno
+Mateusz: Co jest na szczycie szarej kolumny która znajduje siê miêdzy budynkami?
+Maciej: Jest to figura
+Mateusz: Czyja?
+Maciej: Z tego co mi siê wydaje przedstawia ona Matkê Bo¿¹
+Mateusz: Czy za krzakami z kwiatami jest trawa, a za nimi chodnik?
+Maciej: Tak
+Mateusz: Co znajduje siê na lewo od pierwszego okna od prawej prawego budynku?
+Maciej: Drugie okno które jest normalne a kolejny otwór okienny jest ju¿ zamurowany
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Mateusz: Co jest na lewo od mê¿czyzny z dzieckiem w wózku?
+Maciej: Prawdopodobnie jego ¿ona, a dalej p³ot i remonty
+Mateusz: Jak wygl¹da najwy¿sze piêtro tego budynku z tylu na wysokoœci kosza na œmieci?
+Maciej: Jego œciany s¹ bia³e i ma malutkie okna
+Mateusz: A jest tam jakiœ zegar?
+Maciej: Nie
+Mateusz: Co jest nad t¹ jakby wie¿¹ na lewo od g³owy pomnika?
+Maciej: Maszt, z prawdopodobnie jak¹œ flag¹
+Mateusz: Czy w tym budynku s¹ jakieœ okr¹g³e okna?
+Maciej: Nie
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Mateusz: Co jest na œrodku zdjêcia w jego dolnej czêœci?
+Maciej: Drzwi wejœciowe
+Mateusz: A na lewo i prawo od nich?
+Maciej: Na œcianie wisz¹ lampy a dalej s¹ okna os³oniête kratami
+Mateusz: Co jest nad z³otym herbem na œrodku u góry?
+Maciej: Zegar
+Mateusz: A jeszcze wy¿ej?
+Maciej: Drzwiczki za którymi kryj¹ siê kozio³ki
+Mateusz: Czy na prawo od herbu s¹ cztery namalowane wizerunki?
+Maciej: Tak
+Mateusz: Co jest nad drug¹ od do³u namalowan¹ osob¹ z prawej strony?
+Maciej: Kolejne malowid³o przedstawiaj¹ce jak¹œ postaæ
+Mateusz: A pomiêdzy nimi na tym jakby pó³piêtrze?
+Maciej: Równie¿ jest jakieœ malowid³o ale niestety nie wiem co ono przedstawia
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Mateusz: Jak wygl¹da budynek znajduj¹cy siê w centrum zdjêcia?
+Maciej: Jest to wie¿a
+Mateusz: I jak wygl¹da?
+Maciej: Jest zbudowana z ceg³y, ma ma³e okna, a na szczycie ma spadzisty dach
+Mateusz: A jak wygl¹da budynek na prawo od wie¿y?
+Maciej: Jest to integralna czêœæ tej wie¿y
+Mateusz: Co jest na lewo od drzew znajduj¹cych siê przed wie¿a?
+Maciej: Jest to mur równie¿ zbudowany z ceg³y
+Mateusz: Ma jakieœ otwory?
+Maciej: Tak, ale z tego co mi siê wydaje s¹ one zamurowane
+Mateusz: A co jest pomiêdzy integraln¹ czêœci¹ wie¿y a ma³ym budynkiem po prawej?
+Maciej: Znajduje siê tam bia³y budynek
+Mateusz: Jest on du¿y?
+Maciej: Jest takiej samej wysokoœci co budynek przystaj¹cy do wie¿y
+Mateusz: A czy jest jakiœ mur lub brama miêdzy tym bia³ym budynkiem a tym ma³ym budynkiem po prawej?
+Maciej: Tak, przed nimi stoi mur z bram¹ odgradzaj¹cy teren na którym stoj¹
+>>EXPERIMENT FINISHED.

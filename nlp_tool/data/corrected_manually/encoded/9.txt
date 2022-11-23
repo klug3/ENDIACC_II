@@ -1,0 +1,82 @@
+>>Connected to the server!
+>>Bartek joined the chat!
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+>>Pictures changed to: 1a.jpg and 1b.jpg.
+>>EXPERIMENT STARTED.
+>>EXPERIMENT FINISHED.
+>>EXPERIMENT STARTED.
+>>michal joined the chat!
+>>EXPERIMENT FINISHED.
+>>Bartek joined the chat!
+Bartek: y
+michal: y
+>>EXPERIMENT STARTED.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+>>Pictures changed to: 1a.jpg and 1b.jpg.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+>>Pictures changed to: 1a.jpg and 1b.jpg.
+Tomek: :D
+>>EXPERIMENT FINISHED.
+>>EXPERIMENT STARTED.
+Bartek: Kogo przedstawia rzeźba?
+michal: Jana Pawła II
+Bartek: Co znajduje się po lewej stronie od rzeźby?
+michal: kwiaty
+Bartek: Co znajduje się na końcu czerwonego murka?
+michal: flagi
+Bartek: Co jest pod czerwonym murkiem?
+michal: znicze
+>>Pictures changed to: 2a.jpg and 2b.jpg.
+Bartek: Jakiego koloru jest druga kamienica od lewej strony?
+michal: Wygląda mi to na łososiowy
+Bartek: Co znajduje się w lewym dolnym rogu zielonej kamienicy na środku?
+michal: pomnik
+Bartek: Co jest przedstawione na górze kremowej kamienicy pomiędzy dwoma zielonymi?
+michal: nie wiem
+Bartek: Co znajduje się na przeciwko wszystkich kamienic?
+michal: ogrodzenie (takie remontowe)
+>>Pictures changed to: 3a.jpg and 3b.jpg.
+Bartek: Czy wszystkie okna w budynku po prawej stronie są takie same?
+michal: według mnie tak (chociaż jedno wygląda na zamurowane, ale to już chyba nie okno)
+Bartek: Co przedstawia pomnik miedzy budynkami?
+michal: nie wiem
+Bartek: Jak wygląda wejście do budynku po lewej stronie? Czy je widać?
+michal: niewielkie drzwi (podobne jak w budynku po prawej)
+Bartek: Czy ten pomnik/rzeźba to jest postać człowieka?
+michal: według mnie tak, wygląda jak postać człowieka
+Bartek: Pytanie odnośnie lewej ściany w lewym budynku. Czy wszystkie okna są tam takie same? Szczególnie zastanawia mnie środkowy rząd.
+michal: środkowe okna są zamurowane, reszta wygląda tak samo
+>>Pictures changed to: 4a.jpg and 4b.jpg.
+Bartek: Czy Ziomek z wózkiem po lewej stronie ma obok jeszcze kogoś?
+michal: idzie obok niego kobieta
+>>Bartek left the chat.
+Bartek: Pytanie odnośnie mini wieży po prawej stronie zdjęcia. Wychodzi ona z dachu. Co znajduje się na jej szczycie?
+michal: nie wiem, wygląda jak jakaś flaga
+Bartek: Co znajduje się na górze elewacji przy drugim wejściu do budynku? Elewacja pomiędzy wieżyczką, a głównym wejściem. Co jest powyżej 2 rzędów 3 okien.
+michal: prawie pusta przestrzeń (tylko 2 malutkie okienka) i zaraz potem szczyt dachu
+>>Pictures changed to: 5a.jpg and 5b.jpg.
+Bartek: Co znajduje się na środku przy samej podstawie budynku? Na środku rzędu łuków.
+michal: wejście do budynku (drzwi)
+Bartek: Co przedstawia malunek po prawej stronie budynku pomiędzy 2 a 3 mężczyzną licząc od dołu?
+michal: nie wiem, wygląda jak mały niebieski prostokąt (do ozdobienia kompozycji)
+Bartek: Jak wygląda malunek człowieka znajdującego się na górnej linii ludzi, drugi od prawej strony?
+michal: patrzy w prawo, wygląda jak mężczyzna, ma cos chyba na głowie
+Bartek: Co znajduje się nad złotym herbem, który jest na środku górnej linii malunków ludzi?
+michal: zegar
+Bartek: A co jest nad zegarem?
+michal: niewielkie drzwiczki i chyba platforma
+>>Pictures changed to: 6a.jpg and 6b.jpg.
+Bartek: Jak wygląda główny budynek na zdjęciu? Jaki ma kolor, styl?
+michal: jest to taki biało-ceglany kolor (jakby wzór), styl - chyba romański (albo neoromański), dominują proste kształty, wieża przyłączona do kamienicy
+>>EXPERIMENT FINISHED.
+michal: nie ma za co :D
+>>Bartek left the chat.
+>>michal left the chat.
