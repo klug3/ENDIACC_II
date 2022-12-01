@@ -13,6 +13,9 @@ python -m pip install --upgrade pip
 ### Install all packages at once:
 python -m pip install -r requirements.txt
 
+### Download necessarry pipeline for polish language:
+python -m spacy download pl_core_news_lg
+
 ### Activate ipykernel for jupyter notebooks
 python -m ipykernel install --user --name=.venv
 
