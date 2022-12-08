@@ -44,3 +44,5 @@ Python 3.10 environment is finally ready to use.
 call env\python.exe env\gui_client.py  - for client
 call env\python.exe env\gui_wizard.py  - for wizard
 - double click on runENDIACCII.bat
+
+# Windows embeddable packages (64-bit) for information seeker/provider and wizard are available in ./Embedded interfaces directory!

@@ -1,0 +1,35 @@
+###################################
+############# POLSKI ##############
+###################################
+Autorzy systemu ENDIACC II: Tomasz Mądry, Zygmunt Vetulani
+Licencja: MIT
+
+System ENDIACC II składa się z 2 warstw:
+	1) Warstwy bazowej, stanowiącej realizację podstawowych funkcjonalności systemu ENDIACC I.
+	2) Rozwinięcia warstwy bazowej o funkcjonalności nie występujące w systemie ENDIACC I, w szczególności
+	   odpowiedzialne za wstępną normalizację pozyskanych korpusów tekstów.
+Obydwie warstwy zostały zaimplementowane w języku Python 3 (v. 3.10).
+
+Bibliografia:
+(1)	Vetulani, Z. (1989). Linguistic Problems in the Theory of Man-Machine Communication in Natural Language. A Study of Consultative Question-Answering Dialogues. Empirical Approach. Brockmeyer. Bochum.
+(2)	Vetulani, Z. (1990). Corpus of Consultative Dialogues - Experimentally Collected Source Data for AI Applications. Wydawnictwo Naukowe PWN. Poznań.
+(3)	Vetulani, Z. (2004a). Komunikacja Człowieka z Maszyną. Komputerowe Modelowanie Kompetencji Językowej. Akademicka Oficyna Wydawnicza Exit. Warszawa.
+(4)	Vetulani, Z. (2004b). An environment for dialogue corpora collection (ENDIACC). W N. Calzolari (Ed.), Proceedings of the 4th International Conference on Language Resources and Evaluation (s. 283-286). ELRA.
+
+###################################
+############# ENGLISH #############
+###################################
+Authors of the ENDIACC II: Tomasz Mądry, Zygmunt Vetulani
+Licence: MIT
+
+The ENDIACC II system consist of 2 layers:
+	1) The base layer, which is the implementation of the basic functionalities of the ENDIACC I system.
+	2) Augumentation of the base layer with functionalities not present in the ENDIACC I system,
+	   in particular responsible for the initial normalization of the acquired text corpora.
+Both layers were implemented in Python 3 (v. 3.10).
+
+References:
+(1)	Vetulani, Z. (1989). Linguistic Problems in the Theory of Man-Machine Communication in Natural Language. A Study of Consultative Question-Answering Dialogues. Empirical Approach. Brockmeyer. Bochum.
+(2)	Vetulani, Z. (1990). Corpus of Consultative Dialogues - Experimentally Collected Source Data for AI Applications. Wydawnictwo Naukowe PWN. Poznań.
+(3)	Vetulani, Z. (2004a). Komunikacja Człowieka z Maszyną. Komputerowe Modelowanie Kompetencji Językowej. Akademicka Oficyna Wydawnicza Exit. Warszawa.
+(4)	Vetulani, Z. (2004b). An environment for dialogue corpora collection (ENDIACC). W N. Calzolari (Ed.), Proceedings of the 4th International Conference on Language Resources and Evaluation (s. 283-286). ELRA.
