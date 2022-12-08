@@ -1,4 +1,4 @@
-# MSc-Project
+# ENDIACC II
 
 # Requirements:
 - Python 3.10
