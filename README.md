@@ -33,7 +33,7 @@ NOTE: You need to create dir\env\DLLs\ and dir\env\Lib\ directories
 ./Lib/site-packages
 ./Lib
 ./DLLs
-at the beggining of dir\env\python310._pth
+at the begining of dir\env\python310._pth
 6. Install necessary packages from dir\requirements.txt:
 - run: env/python -m pip install -r env\requirements.txt
 Python 3.10 environment is finally ready to use.
